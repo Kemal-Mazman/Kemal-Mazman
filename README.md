@@ -13,7 +13,7 @@ I build hands-on projects around security monitoring, threat detection and incid
 - SOC alert investigation and triage
 - Python-based security automation
 
-## Featured projects
+## Featured project
 
 ### SOC Detection Lab
 
@@ -32,22 +32,12 @@ Recent work includes:
 
 [View SOC Detection Lab](https://github.com/Kemal-Mazman/SOC-Detection-Lab)
 
----
-
-### SOC Triage Agent
-
-Python-based SOC triage project exploring how an AI-assisted workflow can enrich alerts, use bounded tools and produce auditable incident summaries.
-
-**Tech:** Python • Security APIs • AI Agents • SOC Triage
-
-[View SOC Triage Agent](https://github.com/Kemal-Mazman/soc-triage-agent)
-
 ## Career interests
 
 I'm particularly interested in:
 
 **SOC Analysis • Detection Engineering • Security Operations • Threat Detection • Security Automation**
 
-##  Connect
+## Connect
 
-- LinkedIn: www.linkedin.com/in/kemal-mazman
+- LinkedIn: [www.linkedin.com/in/kemal-mazman](https://www.linkedin.com/in/kemal-mazman)
