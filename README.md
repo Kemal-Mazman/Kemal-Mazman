@@ -4,7 +4,7 @@ Cyber Security student focused on **SOC operations, detection engineering and se
 
 I build hands-on projects around security monitoring, threat detection and incident triage, with an emphasis on understanding how detections behave rather than simply making queries fire.
 
-## 🔐 Current focus
+## Current focus
 
 - Detection engineering with **KQL and Splunk SPL**
 - Microsoft Sentinel-ready detections
@@ -42,12 +42,12 @@ Python-based SOC triage project exploring how an AI-assisted workflow can enrich
 
 [View SOC Triage Agent](https://github.com/Kemal-Mazman/soc-triage-agent)
 
-## 🎯 Career interests
+## Career interests
 
 I'm particularly interested in:
 
 **SOC Analysis • Detection Engineering • Security Operations • Threat Detection • Security Automation**
 
-## 📫 Connect
+##  Connect
 
 - LinkedIn: www.linkedin.com/in/kemal-mazman
