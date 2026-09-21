@@ -13,7 +13,7 @@ I build hands-on projects around security monitoring, threat detection and incid
 - SOC alert investigation and triage
 - Python-based security automation
 
-## 🛠 Featured projects
+## Featured projects
 
 ### SOC Detection Lab
 
